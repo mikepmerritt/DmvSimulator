@@ -15,7 +15,7 @@ public class DmvSimulator {
 		}
 		System.out.println("Now serving: " + userNumber);
 		
-		System.out.println("Sorry, we cannot help you, as you do not appear to have the required paperwork.");
+		System.out.println("You didn't even bring the paperwork? You can't blame us for the wait times, this is all your own fault!");
 	}
 	
 }
