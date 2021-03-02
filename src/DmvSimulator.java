@@ -19,8 +19,9 @@ public class DmvSimulator {
 			System.out.println("You have all the correct paperwork and should be good to go now. Have a nice day!");
 		}
 		else {
-			System.out.println("You didn't even bring the paperwork? You can't blame us for the wait times, this is all your own fault!");
+			System.out.println("You didn't even bring the paperwork? You can't blame us for the wait times, this is all your own fault! Mwa ha ha!");
 		}
+
 	}
 	
 }
